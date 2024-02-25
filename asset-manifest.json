@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdarshHirkane/static/css/main.acb35608.css",
+    "main.js": "/AdarshHirkane/static/js/main.026c4e01.js",
+    "static/js/787.d4aba7ab.chunk.js": "/AdarshHirkane/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/AdarshHirkane/index.html",
+    "main.acb35608.css.map": "/AdarshHirkane/static/css/main.acb35608.css.map",
+    "main.026c4e01.js.map": "/AdarshHirkane/static/js/main.026c4e01.js.map",
+    "787.d4aba7ab.chunk.js.map": "/AdarshHirkane/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb35608.css",
+    "static/js/main.026c4e01.js"
+  ]
+}
